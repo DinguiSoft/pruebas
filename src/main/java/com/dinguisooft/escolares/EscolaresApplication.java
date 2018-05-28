@@ -1,4 +1,4 @@
-package com.dinguisooft.escolares;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,6 @@ public class EscolaresApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EscolaresApplication.class, args);
-		System.out.println("Muere Rebe");
+		System.out.println("Moriran");
 	}
 }
